@@ -1,5 +1,3 @@
-**Phase 5: High-Performance Computing (12-18 months)**
-
 **1.  Fundamentals of Parallel Computing**
 
 * **Parallelism Concepts:**
